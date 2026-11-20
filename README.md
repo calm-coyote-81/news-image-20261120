@@ -14,3 +14,11 @@ The poster is drawn entirely with inline SVG and CSS in `poster.html` (no photog
 node render.mjs
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+## Donate
+
+If you enjoy this project, you can support it with a crypto donation:
+
+[Donate SOL / USDT (Solana)](solana:DQM8neQdx1rnCTsjQDJEj2gNrXjYoewkcVdvptoqm3c3?label=Donate)
+
+Or send to this address: `DQM8neQdx1rnCTsjQDJEj2gNrXjYoewkcVdvptoqm3c3`
